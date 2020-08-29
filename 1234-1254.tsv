@@ -1,22 +1,22 @@
 Grp	Grpseq	codepoint	Graph	Name	NumericValue	BidirectionalClass	BidirectionalMirrored	Block	CanonicalCombiningClass	CantoneseReading	Category	DecompositionMapping	DecompositionType	Definition	HangulReading	JapaneseKunReading	JapaneseOnReading	KoreanReading	MandarinReading	AliasName	AliasKind	NumericType	OldName	SimpleLowerCaseMapping	SimpleTitleCaseMapping	SimpleUpperCaseMapping	SimplifiedVariant	TraditionalVariant	UnicodeRadicalStrokeCounts	VietnameseReading	IsAscii	IsBmp	Plane
-1	1	1234	Ӓ	CYRILLIC CAPITAL LETTER A WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӓ	Canonical	-	-	-	-	-	-			None	-	ӓ	-	-	-	-		-	False	True	0	
-2	1	1235	ӓ	CYRILLIC SMALL LETTER A WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӓ	Canonical	-	-	-	-	-	-			None	-	-	Ӓ	Ӓ	-	-		-	False	True	0	
-3	1	1236	Ӕ	CYRILLIC CAPITAL LIGATURE A IE	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	ӕ	-	-	-	-		-	False	True	0	
-4	1	1237	ӕ	CYRILLIC SMALL LIGATURE A IE	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	-	Ӕ	Ӕ	-	-		-	False	True	0	
-5	1	1238	Ӗ	CYRILLIC CAPITAL LETTER IE WITH BREVE	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӗ	Canonical	-	-	-	-	-	-			None	-	ӗ	-	-	-	-		-	False	True	0	
-6	1	1239	ӗ	CYRILLIC SMALL LETTER IE WITH BREVE	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӗ	Canonical	-	-	-	-	-	-			None	-	-	Ӗ	Ӗ	-	-		-	False	True	0	
-7	1	1240	Ә	CYRILLIC CAPITAL LETTER SCHWA	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	ә	-	-	-	-		-	False	True	0	
-8	1	1241	ә	CYRILLIC SMALL LETTER SCHWA	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	-	Ә	Ә	-	-		-	False	True	0	
-9	1	1242	Ӛ	CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӛ	Canonical	-	-	-	-	-	-			None	-	ӛ	-	-	-	-		-	False	True	0	
-10	1	1243	ӛ	CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӛ	Canonical	-	-	-	-	-	-			None	-	-	Ӛ	Ӛ	-	-		-	False	True	0	
-11	1	1244	Ӝ	CYRILLIC CAPITAL LETTER ZHE WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӝ	Canonical	-	-	-	-	-	-			None	-	ӝ	-	-	-	-		-	False	True	0	
-12	1	1245	ӝ	CYRILLIC SMALL LETTER ZHE WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӝ	Canonical	-	-	-	-	-	-			None	-	-	Ӝ	Ӝ	-	-		-	False	True	0	
-13	1	1246	Ӟ	CYRILLIC CAPITAL LETTER ZE WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӟ	Canonical	-	-	-	-	-	-			None	-	ӟ	-	-	-	-		-	False	True	0	
-14	1	1247	ӟ	CYRILLIC SMALL LETTER ZE WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӟ	Canonical	-	-	-	-	-	-			None	-	-	Ӟ	Ӟ	-	-		-	False	True	0	
-15	1	1248	Ӡ	CYRILLIC CAPITAL LETTER ABKHASIAN DZE	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	ӡ	-	-	-	-		-	False	True	0	
-16	1	1249	ӡ	CYRILLIC SMALL LETTER ABKHASIAN DZE	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	-	Ӡ	Ӡ	-	-		-	False	True	0	
-17	1	1250	Ӣ	CYRILLIC CAPITAL LETTER I WITH MACRON	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӣ	Canonical	-	-	-	-	-	-			None	-	ӣ	-	-	-	-		-	False	True	0	
-18	1	1251	ӣ	CYRILLIC SMALL LETTER I WITH MACRON	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӣ	Canonical	-	-	-	-	-	-			None	-	-	Ӣ	Ӣ	-	-		-	False	True	0	
-19	1	1252	Ӥ	CYRILLIC CAPITAL LETTER I WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӥ	Canonical	-	-	-	-	-	-			None	-	ӥ	-	-	-	-		-	False	True	0	
-20	1	1253	ӥ	CYRILLIC SMALL LETTER I WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӥ	Canonical	-	-	-	-	-	-			None	-	-	Ӥ	Ӥ	-	-		-	False	True	0	
-21	1	1254	Ӧ	CYRILLIC CAPITAL LETTER O WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӧ	Canonical	-	-	-	-	-	-			None	-	ӧ	-	-	-	-		-	False	True	0	
+1	1	1234	Ӓ	CYRILLIC CAPITAL LETTER A WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӓ	Canonical	-	-	-	-	-	-			None	-	ӓ	-	-	-	-		-	False	True	0
+2	1	1235	ӓ	CYRILLIC SMALL LETTER A WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӓ	Canonical	-	-	-	-	-	-			None	-	-	Ӓ	Ӓ	-	-		-	False	True	0
+3	1	1236	Ӕ	CYRILLIC CAPITAL LIGATURE A IE	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	ӕ	-	-	-	-		-	False	True	0
+4	1	1237	ӕ	CYRILLIC SMALL LIGATURE A IE	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	-	Ӕ	Ӕ	-	-		-	False	True	0
+5	1	1238	Ӗ	CYRILLIC CAPITAL LETTER IE WITH BREVE	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӗ	Canonical	-	-	-	-	-	-			None	-	ӗ	-	-	-	-		-	False	True	0
+6	1	1239	ӗ	CYRILLIC SMALL LETTER IE WITH BREVE	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӗ	Canonical	-	-	-	-	-	-			None	-	-	Ӗ	Ӗ	-	-		-	False	True	0
+7	1	1240	Ә	CYRILLIC CAPITAL LETTER SCHWA	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	ә	-	-	-	-		-	False	True	0
+8	1	1241	ә	CYRILLIC SMALL LETTER SCHWA	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	-	Ә	Ә	-	-		-	False	True	0
+9	1	1242	Ӛ	CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӛ	Canonical	-	-	-	-	-	-			None	-	ӛ	-	-	-	-		-	False	True	0
+10	1	1243	ӛ	CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӛ	Canonical	-	-	-	-	-	-			None	-	-	Ӛ	Ӛ	-	-		-	False	True	0
+11	1	1244	Ӝ	CYRILLIC CAPITAL LETTER ZHE WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӝ	Canonical	-	-	-	-	-	-			None	-	ӝ	-	-	-	-		-	False	True	0
+12	1	1245	ӝ	CYRILLIC SMALL LETTER ZHE WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӝ	Canonical	-	-	-	-	-	-			None	-	-	Ӝ	Ӝ	-	-		-	False	True	0
+13	1	1246	Ӟ	CYRILLIC CAPITAL LETTER ZE WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӟ	Canonical	-	-	-	-	-	-			None	-	ӟ	-	-	-	-		-	False	True	0
+14	1	1247	ӟ	CYRILLIC SMALL LETTER ZE WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӟ	Canonical	-	-	-	-	-	-			None	-	-	Ӟ	Ӟ	-	-		-	False	True	0
+15	1	1248	Ӡ	CYRILLIC CAPITAL LETTER ABKHASIAN DZE	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	ӡ	-	-	-	-		-	False	True	0
+16	1	1249	ӡ	CYRILLIC SMALL LETTER ABKHASIAN DZE	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	-	Canonical	-	-	-	-	-	-			None	-	-	Ӡ	Ӡ	-	-		-	False	True	0
+17	1	1250	Ӣ	CYRILLIC CAPITAL LETTER I WITH MACRON	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӣ	Canonical	-	-	-	-	-	-			None	-	ӣ	-	-	-	-		-	False	True	0
+18	1	1251	ӣ	CYRILLIC SMALL LETTER I WITH MACRON	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӣ	Canonical	-	-	-	-	-	-			None	-	-	Ӣ	Ӣ	-	-		-	False	True	0
+19	1	1252	Ӥ	CYRILLIC CAPITAL LETTER I WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӥ	Canonical	-	-	-	-	-	-			None	-	ӥ	-	-	-	-		-	False	True	0
+20	1	1253	ӥ	CYRILLIC SMALL LETTER I WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	LowercaseLetter	ӥ	Canonical	-	-	-	-	-	-			None	-	-	Ӥ	Ӥ	-	-		-	False	True	0
+21	1	1254	Ӧ	CYRILLIC CAPITAL LETTER O WITH DIAERESIS	-	LeftToRight	False	Cyrillic	NotReordered	-	UppercaseLetter	Ӧ	Canonical	-	-	-	-	-	-			None	-	ӧ	-	-	-	-		-	False	True	0

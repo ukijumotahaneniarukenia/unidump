@@ -174,11 +174,13 @@ namespace unidump {
             //body
             foreach (var itemDict in summaryList) {
                 List<string> keyList = itemDict.Keys.ToList ();
-
-                foreach (var key in keyList) {
+                int cnt = keyList.Count;
+                for (int i = 0; i < cnt; i++) {
                     {
-                        Console.Write (itemDict[key]);
-                        Console.Write (FS);
+                        Console.Write (itemDict[keyList[i]]);
+                        if (i != cnt - 1) {
+                            Console.Write (FS);
+                        }
                     }
                 }
 
