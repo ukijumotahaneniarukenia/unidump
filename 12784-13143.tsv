@@ -1,0 +1,361 @@
+Grp	Grpseq	codepoint	Graph	Name	NumericValue	BidirectionalClass	BidirectionalMirrored	Block	CanonicalCombiningClass	CantoneseReading	Category	DecompositionMapping	DecompositionType	Definition	HangulReading	JapaneseKunReading	JapaneseOnReading	KoreanReading	MandarinReading	AliasName	AliasKind	NumericType	OldName	SimpleLowerCaseMapping	SimpleTitleCaseMapping	SimpleUpperCaseMapping	SimplifiedVariant	TraditionalVariant	UnicodeRadicalStrokeCounts	VietnameseReading	IsAscii	IsBmp	Plane
+1	1	12784	ㇰ	KATAKANA LETTER SMALL KU	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+2	1	12785	ㇱ	KATAKANA LETTER SMALL SI	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+3	1	12786	ㇲ	KATAKANA LETTER SMALL SU	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+4	1	12787	ㇳ	KATAKANA LETTER SMALL TO	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+5	1	12788	ㇴ	KATAKANA LETTER SMALL NU	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+6	1	12789	ㇵ	KATAKANA LETTER SMALL HA	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+7	1	12790	ㇶ	KATAKANA LETTER SMALL HI	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+8	1	12791	ㇷ	KATAKANA LETTER SMALL HU	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+9	1	12792	ㇸ	KATAKANA LETTER SMALL HE	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+10	1	12793	ㇹ	KATAKANA LETTER SMALL HO	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+11	1	12794	ㇺ	KATAKANA LETTER SMALL MU	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+12	1	12795	ㇻ	KATAKANA LETTER SMALL RA	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+13	1	12796	ㇼ	KATAKANA LETTER SMALL RI	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+14	1	12797	ㇽ	KATAKANA LETTER SMALL RU	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+15	1	12798	ㇾ	KATAKANA LETTER SMALL RE	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+16	1	12799	ㇿ	KATAKANA LETTER SMALL RO	-	LeftToRight	False	Katakana Phonetic Extensions	NotReordered	-	OtherLetter	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+17	1	12800	㈀	PARENTHESIZED HANGUL KIYEOK	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄀ)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL GIYEOG	-	-	-	-	-		-	False	True	0
+18	1	12801	㈁	PARENTHESIZED HANGUL NIEUN	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄂ)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+19	1	12802	㈂	PARENTHESIZED HANGUL TIKEUT	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄃ)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL DIGEUD	-	-	-	-	-		-	False	True	0
+20	1	12803	㈃	PARENTHESIZED HANGUL RIEUL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄅ)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL LIEUL	-	-	-	-	-		-	False	True	0
+21	1	12804	㈄	PARENTHESIZED HANGUL MIEUM	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄆ)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+22	1	12805	㈅	PARENTHESIZED HANGUL PIEUP	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄇ)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL BIEUB	-	-	-	-	-		-	False	True	0
+23	1	12806	㈆	PARENTHESIZED HANGUL SIOS	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄉ)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+24	1	12807	㈇	PARENTHESIZED HANGUL IEUNG	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄋ)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+25	1	12808	㈈	PARENTHESIZED HANGUL CIEUC	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄌ)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL JIEUJ	-	-	-	-	-		-	False	True	0
+26	1	12809	㈉	PARENTHESIZED HANGUL CHIEUCH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄎ)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL CIEUC	-	-	-	-	-		-	False	True	0
+27	1	12810	㈊	PARENTHESIZED HANGUL KHIEUKH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄏ)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL KIYEOK	-	-	-	-	-		-	False	True	0
+28	1	12811	㈋	PARENTHESIZED HANGUL THIEUTH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄐ)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL TIEUT	-	-	-	-	-		-	False	True	0
+29	1	12812	㈌	PARENTHESIZED HANGUL PHIEUPH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄑ)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL PIEUP	-	-	-	-	-		-	False	True	0
+30	1	12813	㈍	PARENTHESIZED HANGUL HIEUH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(ᄒ)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+31	1	12814	㈎	PARENTHESIZED HANGUL KIYEOK A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(가)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL GA	-	-	-	-	-		-	False	True	0
+32	1	12815	㈏	PARENTHESIZED HANGUL NIEUN A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(나)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL NA	-	-	-	-	-		-	False	True	0
+33	1	12816	㈐	PARENTHESIZED HANGUL TIKEUT A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(다)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL DA	-	-	-	-	-		-	False	True	0
+34	1	12817	㈑	PARENTHESIZED HANGUL RIEUL A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(라)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL LA	-	-	-	-	-		-	False	True	0
+35	1	12818	㈒	PARENTHESIZED HANGUL MIEUM A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(마)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL MA	-	-	-	-	-		-	False	True	0
+36	1	12819	㈓	PARENTHESIZED HANGUL PIEUP A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(바)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL BA	-	-	-	-	-		-	False	True	0
+37	1	12820	㈔	PARENTHESIZED HANGUL SIOS A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(사)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL SA	-	-	-	-	-		-	False	True	0
+38	1	12821	㈕	PARENTHESIZED HANGUL IEUNG A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(아)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL A	-	-	-	-	-		-	False	True	0
+39	1	12822	㈖	PARENTHESIZED HANGUL CIEUC A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(자)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL JA	-	-	-	-	-		-	False	True	0
+40	1	12823	㈗	PARENTHESIZED HANGUL CHIEUCH A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(차)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL CA	-	-	-	-	-		-	False	True	0
+41	1	12824	㈘	PARENTHESIZED HANGUL KHIEUKH A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(카)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL KA	-	-	-	-	-		-	False	True	0
+42	1	12825	㈙	PARENTHESIZED HANGUL THIEUTH A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(타)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL TA	-	-	-	-	-		-	False	True	0
+43	1	12826	㈚	PARENTHESIZED HANGUL PHIEUPH A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(파)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL PA	-	-	-	-	-		-	False	True	0
+44	1	12827	㈛	PARENTHESIZED HANGUL HIEUH A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(하)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL HA	-	-	-	-	-		-	False	True	0
+45	1	12828	㈜	PARENTHESIZED HANGUL CIEUC U	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(주)	Compat	-	-	-	-	-	-			None	PARENTHESIZED HANGUL JU	-	-	-	-	-		-	False	True	0
+46	1	12829	㈝	PARENTHESIZED KOREAN CHARACTER OJEON	-	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(오전)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+47	1	12830	㈞	PARENTHESIZED KOREAN CHARACTER O HU	-	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(오후)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+48	1	12831	㈟		-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNotAssigned	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+49	1	12832	㈠	PARENTHESIZED IDEOGRAPH ONE	1	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	(一)	Compat	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+50	1	12833	㈡	PARENTHESIZED IDEOGRAPH TWO	2	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	(二)	Compat	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+51	1	12834	㈢	PARENTHESIZED IDEOGRAPH THREE	3	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	(三)	Compat	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+52	1	12835	㈣	PARENTHESIZED IDEOGRAPH FOUR	4	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	(四)	Compat	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+53	1	12836	㈤	PARENTHESIZED IDEOGRAPH FIVE	5	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	(五)	Compat	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+54	1	12837	㈥	PARENTHESIZED IDEOGRAPH SIX	6	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	(六)	Compat	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+55	1	12838	㈦	PARENTHESIZED IDEOGRAPH SEVEN	7	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	(七)	Compat	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+56	1	12839	㈧	PARENTHESIZED IDEOGRAPH EIGHT	8	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	(八)	Compat	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+57	1	12840	㈨	PARENTHESIZED IDEOGRAPH NINE	9	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	(九)	Compat	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+58	1	12841	㈩	PARENTHESIZED IDEOGRAPH TEN	10	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	(十)	Compat	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+59	1	12842	㈪	PARENTHESIZED IDEOGRAPH MOON	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(月)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+60	1	12843	㈫	PARENTHESIZED IDEOGRAPH FIRE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(火)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+61	1	12844	㈬	PARENTHESIZED IDEOGRAPH WATER	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(水)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+62	1	12845	㈭	PARENTHESIZED IDEOGRAPH WOOD	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(木)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+63	1	12846	㈮	PARENTHESIZED IDEOGRAPH METAL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(金)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+64	1	12847	㈯	PARENTHESIZED IDEOGRAPH EARTH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(土)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+65	1	12848	㈰	PARENTHESIZED IDEOGRAPH SUN	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(日)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+66	1	12849	㈱	PARENTHESIZED IDEOGRAPH STOCK	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(株)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+67	1	12850	㈲	PARENTHESIZED IDEOGRAPH HAVE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(有)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+68	1	12851	㈳	PARENTHESIZED IDEOGRAPH SOCIETY	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(社)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+69	1	12852	㈴	PARENTHESIZED IDEOGRAPH NAME	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(名)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+70	1	12853	㈵	PARENTHESIZED IDEOGRAPH SPECIAL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(特)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+71	1	12854	㈶	PARENTHESIZED IDEOGRAPH FINANCIAL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(財)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+72	1	12855	㈷	PARENTHESIZED IDEOGRAPH CONGRATULATION	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(祝)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+73	1	12856	㈸	PARENTHESIZED IDEOGRAPH LABOR	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(労)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+74	1	12857	㈹	PARENTHESIZED IDEOGRAPH REPRESENT	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(代)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+75	1	12858	㈺	PARENTHESIZED IDEOGRAPH CALL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(呼)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+76	1	12859	㈻	PARENTHESIZED IDEOGRAPH STUDY	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(学)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+77	1	12860	㈼	PARENTHESIZED IDEOGRAPH SUPERVISE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(監)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+78	1	12861	㈽	PARENTHESIZED IDEOGRAPH ENTERPRISE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(企)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+79	1	12862	㈾	PARENTHESIZED IDEOGRAPH RESOURCE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(資)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+80	1	12863	㈿	PARENTHESIZED IDEOGRAPH ALLIANCE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(協)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+81	1	12864	㉀	PARENTHESIZED IDEOGRAPH FESTIVAL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(祭)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+82	1	12865	㉁	PARENTHESIZED IDEOGRAPH REST	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(休)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+83	1	12866	㉂	PARENTHESIZED IDEOGRAPH SELF	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(自)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+84	1	12867	㉃	PARENTHESIZED IDEOGRAPH REACH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	(至)	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+85	1	12868	㉄	CIRCLED IDEOGRAPH QUESTION	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	問	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+86	1	12869	㉅	CIRCLED IDEOGRAPH KINDERGARTEN	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	幼	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+87	1	12870	㉆	CIRCLED IDEOGRAPH SCHOOL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	文	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+88	1	12871	㉇	CIRCLED IDEOGRAPH KOTO	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	箏	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+89	1	12872	㉈	CIRCLED NUMBER TEN ON BLACK SQUARE	10	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	-	Canonical	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+90	1	12873	㉉	CIRCLED NUMBER TWENTY ON BLACK SQUARE	20	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	-	Canonical	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+91	1	12874	㉊	CIRCLED NUMBER THIRTY ON BLACK SQUARE	30	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	-	Canonical	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+92	1	12875	㉋	CIRCLED NUMBER FORTY ON BLACK SQUARE	40	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	-	Canonical	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+93	1	12876	㉌	CIRCLED NUMBER FIFTY ON BLACK SQUARE	50	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	-	Canonical	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+94	1	12877	㉍	CIRCLED NUMBER SIXTY ON BLACK SQUARE	60	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	-	Canonical	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+95	1	12878	㉎	CIRCLED NUMBER SEVENTY ON BLACK SQUARE	70	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	-	Canonical	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+96	1	12879	㉏	CIRCLED NUMBER EIGHTY ON BLACK SQUARE	80	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	-	Canonical	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+97	1	12880	㉐	PARTNERSHIP SIGN	-	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	PTE	Square	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+98	1	12881	㉑	CIRCLED NUMBER TWENTY ONE	21	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	21	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+99	1	12882	㉒	CIRCLED NUMBER TWENTY TWO	22	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	22	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+100	1	12883	㉓	CIRCLED NUMBER TWENTY THREE	23	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	23	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+101	1	12884	㉔	CIRCLED NUMBER TWENTY FOUR	24	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	24	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+102	1	12885	㉕	CIRCLED NUMBER TWENTY FIVE	25	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	25	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+103	1	12886	㉖	CIRCLED NUMBER TWENTY SIX	26	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	26	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+104	1	12887	㉗	CIRCLED NUMBER TWENTY SEVEN	27	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	27	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+105	1	12888	㉘	CIRCLED NUMBER TWENTY EIGHT	28	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	28	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+106	1	12889	㉙	CIRCLED NUMBER TWENTY NINE	29	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	29	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+107	1	12890	㉚	CIRCLED NUMBER THIRTY	30	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	30	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+108	1	12891	㉛	CIRCLED NUMBER THIRTY ONE	31	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	31	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+109	1	12892	㉜	CIRCLED NUMBER THIRTY TWO	32	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	32	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+110	1	12893	㉝	CIRCLED NUMBER THIRTY THREE	33	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	33	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+111	1	12894	㉞	CIRCLED NUMBER THIRTY FOUR	34	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	34	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+112	1	12895	㉟	CIRCLED NUMBER THIRTY FIVE	35	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	35	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+113	1	12896	㉠	CIRCLED HANGUL KIYEOK	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄀ	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL GIYEOG	-	-	-	-	-		-	False	True	0
+114	1	12897	㉡	CIRCLED HANGUL NIEUN	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄂ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+115	1	12898	㉢	CIRCLED HANGUL TIKEUT	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄃ	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL DIGEUD	-	-	-	-	-		-	False	True	0
+116	1	12899	㉣	CIRCLED HANGUL RIEUL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄅ	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL LIEUL	-	-	-	-	-		-	False	True	0
+117	1	12900	㉤	CIRCLED HANGUL MIEUM	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄆ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+118	1	12901	㉥	CIRCLED HANGUL PIEUP	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄇ	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL BIEUB	-	-	-	-	-		-	False	True	0
+119	1	12902	㉦	CIRCLED HANGUL SIOS	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄉ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+120	1	12903	㉧	CIRCLED HANGUL IEUNG	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄋ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+121	1	12904	㉨	CIRCLED HANGUL CIEUC	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄌ	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL JIEUJ	-	-	-	-	-		-	False	True	0
+122	1	12905	㉩	CIRCLED HANGUL CHIEUCH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄎ	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL CIEUC	-	-	-	-	-		-	False	True	0
+123	1	12906	㉪	CIRCLED HANGUL KHIEUKH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄏ	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL KIYEOK	-	-	-	-	-		-	False	True	0
+124	1	12907	㉫	CIRCLED HANGUL THIEUTH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄐ	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL TIEUT	-	-	-	-	-		-	False	True	0
+125	1	12908	㉬	CIRCLED HANGUL PHIEUPH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄑ	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL PIEUP	-	-	-	-	-		-	False	True	0
+126	1	12909	㉭	CIRCLED HANGUL HIEUH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ᄒ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+127	1	12910	㉮	CIRCLED HANGUL KIYEOK A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	가	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL GA	-	-	-	-	-		-	False	True	0
+128	1	12911	㉯	CIRCLED HANGUL NIEUN A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	나	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL NA	-	-	-	-	-		-	False	True	0
+129	1	12912	㉰	CIRCLED HANGUL TIKEUT A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	다	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL DA	-	-	-	-	-		-	False	True	0
+130	1	12913	㉱	CIRCLED HANGUL RIEUL A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	라	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL LA	-	-	-	-	-		-	False	True	0
+131	1	12914	㉲	CIRCLED HANGUL MIEUM A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	마	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL MA	-	-	-	-	-		-	False	True	0
+132	1	12915	㉳	CIRCLED HANGUL PIEUP A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	바	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL BA	-	-	-	-	-		-	False	True	0
+133	1	12916	㉴	CIRCLED HANGUL SIOS A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	사	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL SA	-	-	-	-	-		-	False	True	0
+134	1	12917	㉵	CIRCLED HANGUL IEUNG A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	아	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL A	-	-	-	-	-		-	False	True	0
+135	1	12918	㉶	CIRCLED HANGUL CIEUC A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	자	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL JA	-	-	-	-	-		-	False	True	0
+136	1	12919	㉷	CIRCLED HANGUL CHIEUCH A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	차	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL CA	-	-	-	-	-		-	False	True	0
+137	1	12920	㉸	CIRCLED HANGUL KHIEUKH A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	카	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL KA	-	-	-	-	-		-	False	True	0
+138	1	12921	㉹	CIRCLED HANGUL THIEUTH A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	타	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL TA	-	-	-	-	-		-	False	True	0
+139	1	12922	㉺	CIRCLED HANGUL PHIEUPH A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	파	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL PA	-	-	-	-	-		-	False	True	0
+140	1	12923	㉻	CIRCLED HANGUL HIEUH A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	하	Circle	-	-	-	-	-	-			None	CIRCLED HANGUL HA	-	-	-	-	-		-	False	True	0
+141	1	12924	㉼	CIRCLED KOREAN CHARACTER CHAMKO	-	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	참고	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+142	1	12925	㉽	CIRCLED KOREAN CHARACTER JUEUI	-	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	주의	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+143	1	12926	㉾	CIRCLED HANGUL IEUNG U	-	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	우	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+144	1	12927	㉿	KOREAN STANDARD SYMBOL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	-	Canonical	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+145	1	12928	㊀	CIRCLED IDEOGRAPH ONE	1	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	一	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+146	1	12929	㊁	CIRCLED IDEOGRAPH TWO	2	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	二	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+147	1	12930	㊂	CIRCLED IDEOGRAPH THREE	3	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	三	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+148	1	12931	㊃	CIRCLED IDEOGRAPH FOUR	4	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	四	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+149	1	12932	㊄	CIRCLED IDEOGRAPH FIVE	5	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	五	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+150	1	12933	㊅	CIRCLED IDEOGRAPH SIX	6	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	六	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+151	1	12934	㊆	CIRCLED IDEOGRAPH SEVEN	7	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	七	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+152	1	12935	㊇	CIRCLED IDEOGRAPH EIGHT	8	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	八	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+153	1	12936	㊈	CIRCLED IDEOGRAPH NINE	9	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	九	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+154	1	12937	㊉	CIRCLED IDEOGRAPH TEN	10	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	十	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+155	1	12938	㊊	CIRCLED IDEOGRAPH MOON	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	月	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+156	1	12939	㊋	CIRCLED IDEOGRAPH FIRE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	火	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+157	1	12940	㊌	CIRCLED IDEOGRAPH WATER	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	水	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+158	1	12941	㊍	CIRCLED IDEOGRAPH WOOD	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	木	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+159	1	12942	㊎	CIRCLED IDEOGRAPH METAL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	金	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+160	1	12943	㊏	CIRCLED IDEOGRAPH EARTH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	土	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+161	1	12944	㊐	CIRCLED IDEOGRAPH SUN	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	日	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+162	1	12945	㊑	CIRCLED IDEOGRAPH STOCK	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	株	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+163	1	12946	㊒	CIRCLED IDEOGRAPH HAVE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	有	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+164	1	12947	㊓	CIRCLED IDEOGRAPH SOCIETY	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	社	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+165	1	12948	㊔	CIRCLED IDEOGRAPH NAME	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	名	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+166	1	12949	㊕	CIRCLED IDEOGRAPH SPECIAL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	特	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+167	1	12950	㊖	CIRCLED IDEOGRAPH FINANCIAL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	財	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+168	1	12951	㊗	CIRCLED IDEOGRAPH CONGRATULATION	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	祝	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+169	1	12952	㊘	CIRCLED IDEOGRAPH LABOR	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	労	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+170	1	12953	㊙	CIRCLED IDEOGRAPH SECRET	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	秘	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+171	1	12954	㊚	CIRCLED IDEOGRAPH MALE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	男	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+172	1	12955	㊛	CIRCLED IDEOGRAPH FEMALE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	女	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+173	1	12956	㊜	CIRCLED IDEOGRAPH SUITABLE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	適	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+174	1	12957	㊝	CIRCLED IDEOGRAPH EXCELLENT	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	優	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+175	1	12958	㊞	CIRCLED IDEOGRAPH PRINT	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	印	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+176	1	12959	㊟	CIRCLED IDEOGRAPH ATTENTION	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	注	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+177	1	12960	㊠	CIRCLED IDEOGRAPH ITEM	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	項	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+178	1	12961	㊡	CIRCLED IDEOGRAPH REST	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	休	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+179	1	12962	㊢	CIRCLED IDEOGRAPH COPY	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	写	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+180	1	12963	㊣	CIRCLED IDEOGRAPH CORRECT	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	正	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+181	1	12964	㊤	CIRCLED IDEOGRAPH HIGH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	上	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+182	1	12965	㊥	CIRCLED IDEOGRAPH CENTRE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	中	Circle	-	-	-	-	-	-			None	CIRCLED IDEOGRAPH CENTER	-	-	-	-	-		-	False	True	0
+183	1	12966	㊦	CIRCLED IDEOGRAPH LOW	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	下	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+184	1	12967	㊧	CIRCLED IDEOGRAPH LEFT	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	左	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+185	1	12968	㊨	CIRCLED IDEOGRAPH RIGHT	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	右	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+186	1	12969	㊩	CIRCLED IDEOGRAPH MEDICINE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	医	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+187	1	12970	㊪	CIRCLED IDEOGRAPH RELIGION	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	宗	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+188	1	12971	㊫	CIRCLED IDEOGRAPH STUDY	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	学	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+189	1	12972	㊬	CIRCLED IDEOGRAPH SUPERVISE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	監	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+190	1	12973	㊭	CIRCLED IDEOGRAPH ENTERPRISE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	企	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+191	1	12974	㊮	CIRCLED IDEOGRAPH RESOURCE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	資	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+192	1	12975	㊯	CIRCLED IDEOGRAPH ALLIANCE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	協	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+193	1	12976	㊰	CIRCLED IDEOGRAPH NIGHT	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	夜	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+194	1	12977	㊱	CIRCLED NUMBER THIRTY SIX	36	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	36	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+195	1	12978	㊲	CIRCLED NUMBER THIRTY SEVEN	37	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	37	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+196	1	12979	㊳	CIRCLED NUMBER THIRTY EIGHT	38	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	38	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+197	1	12980	㊴	CIRCLED NUMBER THIRTY NINE	39	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	39	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+198	1	12981	㊵	CIRCLED NUMBER FORTY	40	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	40	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+199	1	12982	㊶	CIRCLED NUMBER FORTY ONE	41	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	41	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+200	1	12983	㊷	CIRCLED NUMBER FORTY TWO	42	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	42	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+201	1	12984	㊸	CIRCLED NUMBER FORTY THREE	43	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	43	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+202	1	12985	㊹	CIRCLED NUMBER FORTY FOUR	44	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	44	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+203	1	12986	㊺	CIRCLED NUMBER FORTY FIVE	45	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	45	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+204	1	12987	㊻	CIRCLED NUMBER FORTY SIX	46	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	46	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+205	1	12988	㊼	CIRCLED NUMBER FORTY SEVEN	47	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	47	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+206	1	12989	㊽	CIRCLED NUMBER FORTY EIGHT	48	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	48	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+207	1	12990	㊾	CIRCLED NUMBER FORTY NINE	49	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	49	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+208	1	12991	㊿	CIRCLED NUMBER FIFTY	50	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherNumber	50	Circle	-	-	-	-	-	-			Numeric	-	-	-	-	-	-		-	False	True	0
+209	1	12992	㋀	IDEOGRAPHIC TELEGRAPH SYMBOL FOR JANUARY	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	1月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+210	1	12993	㋁	IDEOGRAPHIC TELEGRAPH SYMBOL FOR FEBRUARY	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	2月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+211	1	12994	㋂	IDEOGRAPHIC TELEGRAPH SYMBOL FOR MARCH	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	3月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+212	1	12995	㋃	IDEOGRAPHIC TELEGRAPH SYMBOL FOR APRIL	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	4月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+213	1	12996	㋄	IDEOGRAPHIC TELEGRAPH SYMBOL FOR MAY	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	5月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+214	1	12997	㋅	IDEOGRAPHIC TELEGRAPH SYMBOL FOR JUNE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	6月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+215	1	12998	㋆	IDEOGRAPHIC TELEGRAPH SYMBOL FOR JULY	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	7月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+216	1	12999	㋇	IDEOGRAPHIC TELEGRAPH SYMBOL FOR AUGUST	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	8月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+217	1	13000	㋈	IDEOGRAPHIC TELEGRAPH SYMBOL FOR SEPTEMBER	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	9月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+218	1	13001	㋉	IDEOGRAPHIC TELEGRAPH SYMBOL FOR OCTOBER	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	10月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+219	1	13002	㋊	IDEOGRAPHIC TELEGRAPH SYMBOL FOR NOVEMBER	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	11月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+220	1	13003	㋋	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DECEMBER	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	12月	Compat	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+221	1	13004	㋌	SQUARE HG	-	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	Hg	Square	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+222	1	13005	㋍	SQUARE ERG	-	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	erg	Square	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+223	1	13006	㋎	SQUARE EV	-	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	eV	Square	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+224	1	13007	㋏	LIMITED LIABILITY SIGN	-	OtherNeutral	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	LTD	Square	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+225	1	13008	㋐	CIRCLED KATAKANA A	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ア	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+226	1	13009	㋑	CIRCLED KATAKANA I	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	イ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+227	1	13010	㋒	CIRCLED KATAKANA U	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ウ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+228	1	13011	㋓	CIRCLED KATAKANA E	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	エ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+229	1	13012	㋔	CIRCLED KATAKANA O	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	オ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+230	1	13013	㋕	CIRCLED KATAKANA KA	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	カ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+231	1	13014	㋖	CIRCLED KATAKANA KI	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	キ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+232	1	13015	㋗	CIRCLED KATAKANA KU	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ク	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+233	1	13016	㋘	CIRCLED KATAKANA KE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ケ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+234	1	13017	㋙	CIRCLED KATAKANA KO	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	コ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+235	1	13018	㋚	CIRCLED KATAKANA SA	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	サ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+236	1	13019	㋛	CIRCLED KATAKANA SI	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	シ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+237	1	13020	㋜	CIRCLED KATAKANA SU	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ス	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+238	1	13021	㋝	CIRCLED KATAKANA SE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	セ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+239	1	13022	㋞	CIRCLED KATAKANA SO	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ソ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+240	1	13023	㋟	CIRCLED KATAKANA TA	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	タ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+241	1	13024	㋠	CIRCLED KATAKANA TI	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	チ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+242	1	13025	㋡	CIRCLED KATAKANA TU	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ツ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+243	1	13026	㋢	CIRCLED KATAKANA TE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	テ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+244	1	13027	㋣	CIRCLED KATAKANA TO	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ト	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+245	1	13028	㋤	CIRCLED KATAKANA NA	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ナ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+246	1	13029	㋥	CIRCLED KATAKANA NI	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ニ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+247	1	13030	㋦	CIRCLED KATAKANA NU	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ヌ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+248	1	13031	㋧	CIRCLED KATAKANA NE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ネ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+249	1	13032	㋨	CIRCLED KATAKANA NO	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ノ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+250	1	13033	㋩	CIRCLED KATAKANA HA	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ハ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+251	1	13034	㋪	CIRCLED KATAKANA HI	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ヒ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+252	1	13035	㋫	CIRCLED KATAKANA HU	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	フ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+253	1	13036	㋬	CIRCLED KATAKANA HE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ヘ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+254	1	13037	㋭	CIRCLED KATAKANA HO	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ホ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+255	1	13038	㋮	CIRCLED KATAKANA MA	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	マ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+256	1	13039	㋯	CIRCLED KATAKANA MI	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ミ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+257	1	13040	㋰	CIRCLED KATAKANA MU	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ム	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+258	1	13041	㋱	CIRCLED KATAKANA ME	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	メ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+259	1	13042	㋲	CIRCLED KATAKANA MO	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	モ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+260	1	13043	㋳	CIRCLED KATAKANA YA	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ヤ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+261	1	13044	㋴	CIRCLED KATAKANA YU	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ユ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+262	1	13045	㋵	CIRCLED KATAKANA YO	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ヨ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+263	1	13046	㋶	CIRCLED KATAKANA RA	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ラ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+264	1	13047	㋷	CIRCLED KATAKANA RI	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	リ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+265	1	13048	㋸	CIRCLED KATAKANA RU	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ル	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+266	1	13049	㋹	CIRCLED KATAKANA RE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	レ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+267	1	13050	㋺	CIRCLED KATAKANA RO	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ロ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+268	1	13051	㋻	CIRCLED KATAKANA WA	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ワ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+269	1	13052	㋼	CIRCLED KATAKANA WI	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ヰ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+270	1	13053	㋽	CIRCLED KATAKANA WE	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ヱ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+271	1	13054	㋾	CIRCLED KATAKANA WO	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	ヲ	Circle	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+272	1	13055	㋿	SQUARE ERA NAME REIWA	-	LeftToRight	False	Enclosed CJK Letters and Months	NotReordered	-	OtherSymbol	令和	Square	-	-	-	-	-	-			None	-	-	-	-	-	-		-	False	True	0
+273	1	13056	㌀	SQUARE APAATO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	アパート	Square	-	-	-	-	-	-			None	SQUARED APAATO	-	-	-	-	-		-	False	True	0
+274	1	13057	㌁	SQUARE ARUHUA	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	アルファ	Square	-	-	-	-	-	-			None	SQUARED ARUHUA	-	-	-	-	-		-	False	True	0
+275	1	13058	㌂	SQUARE ANPEA	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	アンペア	Square	-	-	-	-	-	-			None	SQUARED ANPEA	-	-	-	-	-		-	False	True	0
+276	1	13059	㌃	SQUARE AARU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	アール	Square	-	-	-	-	-	-			None	SQUARED AARU	-	-	-	-	-		-	False	True	0
+277	1	13060	㌄	SQUARE ININGU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	イニング	Square	-	-	-	-	-	-			None	SQUARED ININGU	-	-	-	-	-		-	False	True	0
+278	1	13061	㌅	SQUARE INTI	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	インチ	Square	-	-	-	-	-	-			None	SQUARED INTI	-	-	-	-	-		-	False	True	0
+279	1	13062	㌆	SQUARE UON	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ウォン	Square	-	-	-	-	-	-			None	SQUARED UON	-	-	-	-	-		-	False	True	0
+280	1	13063	㌇	SQUARE ESUKUUDO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	エスクード	Square	-	-	-	-	-	-			None	SQUARED ESUKUUDO	-	-	-	-	-		-	False	True	0
+281	1	13064	㌈	SQUARE EEKAA	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	エーカー	Square	-	-	-	-	-	-			None	SQUARED EEKAA	-	-	-	-	-		-	False	True	0
+282	1	13065	㌉	SQUARE ONSU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	オンス	Square	-	-	-	-	-	-			None	SQUARED ONSU	-	-	-	-	-		-	False	True	0
+283	1	13066	㌊	SQUARE OOMU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	オーム	Square	-	-	-	-	-	-			None	SQUARED OOMU	-	-	-	-	-		-	False	True	0
+284	1	13067	㌋	SQUARE KAIRI	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	カイリ	Square	-	-	-	-	-	-			None	SQUARED KAIRI	-	-	-	-	-		-	False	True	0
+285	1	13068	㌌	SQUARE KARATTO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	カラット	Square	-	-	-	-	-	-			None	SQUARED KARATTO	-	-	-	-	-		-	False	True	0
+286	1	13069	㌍	SQUARE KARORII	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	カロリー	Square	-	-	-	-	-	-			None	SQUARED KARORII	-	-	-	-	-		-	False	True	0
+287	1	13070	㌎	SQUARE GARON	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ガロン	Square	-	-	-	-	-	-			None	SQUARED GARON	-	-	-	-	-		-	False	True	0
+288	1	13071	㌏	SQUARE GANMA	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ガンマ	Square	-	-	-	-	-	-			None	SQUARED GANMA	-	-	-	-	-		-	False	True	0
+289	1	13072	㌐	SQUARE GIGA	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ギガ	Square	-	-	-	-	-	-			None	SQUARED GIGA	-	-	-	-	-		-	False	True	0
+290	1	13073	㌑	SQUARE GINII	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ギニー	Square	-	-	-	-	-	-			None	SQUARED GINII	-	-	-	-	-		-	False	True	0
+291	1	13074	㌒	SQUARE KYURII	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	キュリー	Square	-	-	-	-	-	-			None	SQUARED KYURII	-	-	-	-	-		-	False	True	0
+292	1	13075	㌓	SQUARE GIRUDAA	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ギルダー	Square	-	-	-	-	-	-			None	SQUARED GIRUDAA	-	-	-	-	-		-	False	True	0
+293	1	13076	㌔	SQUARE KIRO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	キロ	Square	-	-	-	-	-	-			None	SQUARED KIRO	-	-	-	-	-		-	False	True	0
+294	1	13077	㌕	SQUARE KIROGURAMU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	キログラム	Square	-	-	-	-	-	-			None	SQUARED KIROGURAMU	-	-	-	-	-		-	False	True	0
+295	1	13078	㌖	SQUARE KIROMEETORU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	キロメートル	Square	-	-	-	-	-	-			None	SQUARED KIROMEETORU	-	-	-	-	-		-	False	True	0
+296	1	13079	㌗	SQUARE KIROWATTO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	キロワット	Square	-	-	-	-	-	-			None	SQUARED KIROWATTO	-	-	-	-	-		-	False	True	0
+297	1	13080	㌘	SQUARE GURAMU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	グラム	Square	-	-	-	-	-	-			None	SQUARED GURAMU	-	-	-	-	-		-	False	True	0
+298	1	13081	㌙	SQUARE GURAMUTON	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	グラムトン	Square	-	-	-	-	-	-			None	SQUARED GURAMUTON	-	-	-	-	-		-	False	True	0
+299	1	13082	㌚	SQUARE KURUZEIRO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	クルゼイロ	Square	-	-	-	-	-	-			None	SQUARED KURUZEIRO	-	-	-	-	-		-	False	True	0
+300	1	13083	㌛	SQUARE KUROONE	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	クローネ	Square	-	-	-	-	-	-			None	SQUARED KUROONE	-	-	-	-	-		-	False	True	0
+301	1	13084	㌜	SQUARE KEESU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ケース	Square	-	-	-	-	-	-			None	SQUARED KEESU	-	-	-	-	-		-	False	True	0
+302	1	13085	㌝	SQUARE KORUNA	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	コルナ	Square	-	-	-	-	-	-			None	SQUARED KORUNA	-	-	-	-	-		-	False	True	0
+303	1	13086	㌞	SQUARE KOOPO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	コーポ	Square	-	-	-	-	-	-			None	SQUARED KOOPO	-	-	-	-	-		-	False	True	0
+304	1	13087	㌟	SQUARE SAIKURU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	サイクル	Square	-	-	-	-	-	-			None	SQUARED SAIKURU	-	-	-	-	-		-	False	True	0
+305	1	13088	㌠	SQUARE SANTIIMU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	サンチーム	Square	-	-	-	-	-	-			None	SQUARED SANTIIMU	-	-	-	-	-		-	False	True	0
+306	1	13089	㌡	SQUARE SIRINGU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	シリング	Square	-	-	-	-	-	-			None	SQUARED SIRINGU	-	-	-	-	-		-	False	True	0
+307	1	13090	㌢	SQUARE SENTI	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	センチ	Square	-	-	-	-	-	-			None	SQUARED SENTI	-	-	-	-	-		-	False	True	0
+308	1	13091	㌣	SQUARE SENTO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	セント	Square	-	-	-	-	-	-			None	SQUARED SENTO	-	-	-	-	-		-	False	True	0
+309	1	13092	㌤	SQUARE DAASU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ダース	Square	-	-	-	-	-	-			None	SQUARED DAASU	-	-	-	-	-		-	False	True	0
+310	1	13093	㌥	SQUARE DESI	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	デシ	Square	-	-	-	-	-	-			None	SQUARED DESI	-	-	-	-	-		-	False	True	0
+311	1	13094	㌦	SQUARE DORU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ドル	Square	-	-	-	-	-	-			None	SQUARED DORU	-	-	-	-	-		-	False	True	0
+312	1	13095	㌧	SQUARE TON	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	トン	Square	-	-	-	-	-	-			None	SQUARED TON	-	-	-	-	-		-	False	True	0
+313	1	13096	㌨	SQUARE NANO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ナノ	Square	-	-	-	-	-	-			None	SQUARED NANO	-	-	-	-	-		-	False	True	0
+314	1	13097	㌩	SQUARE NOTTO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ノット	Square	-	-	-	-	-	-			None	SQUARED NOTTO	-	-	-	-	-		-	False	True	0
+315	1	13098	㌪	SQUARE HAITU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ハイツ	Square	-	-	-	-	-	-			None	SQUARED HAITU	-	-	-	-	-		-	False	True	0
+316	1	13099	㌫	SQUARE PAASENTO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	パーセント	Square	-	-	-	-	-	-			None	SQUARED PAASENTO	-	-	-	-	-		-	False	True	0
+317	1	13100	㌬	SQUARE PAATU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	パーツ	Square	-	-	-	-	-	-			None	SQUARED PAATU	-	-	-	-	-		-	False	True	0
+318	1	13101	㌭	SQUARE BAARERU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	バーレル	Square	-	-	-	-	-	-			None	SQUARED BAARERU	-	-	-	-	-		-	False	True	0
+319	1	13102	㌮	SQUARE PIASUTORU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ピアストル	Square	-	-	-	-	-	-			None	SQUARED PIASUTORU	-	-	-	-	-		-	False	True	0
+320	1	13103	㌯	SQUARE PIKURU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ピクル	Square	-	-	-	-	-	-			None	SQUARED PIKURU	-	-	-	-	-		-	False	True	0
+321	1	13104	㌰	SQUARE PIKO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ピコ	Square	-	-	-	-	-	-			None	SQUARED PIKO	-	-	-	-	-		-	False	True	0
+322	1	13105	㌱	SQUARE BIRU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ビル	Square	-	-	-	-	-	-			None	SQUARED BIRU	-	-	-	-	-		-	False	True	0
+323	1	13106	㌲	SQUARE HUARADDO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ファラッド	Square	-	-	-	-	-	-			None	SQUARED HUARADDO	-	-	-	-	-		-	False	True	0
+324	1	13107	㌳	SQUARE HUIITO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	フィート	Square	-	-	-	-	-	-			None	SQUARED HUIITO	-	-	-	-	-		-	False	True	0
+325	1	13108	㌴	SQUARE BUSSYERU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ブッシェル	Square	-	-	-	-	-	-			None	SQUARED BUSSYERU	-	-	-	-	-		-	False	True	0
+326	1	13109	㌵	SQUARE HURAN	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	フラン	Square	-	-	-	-	-	-			None	SQUARED HURAN	-	-	-	-	-		-	False	True	0
+327	1	13110	㌶	SQUARE HEKUTAARU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ヘクタール	Square	-	-	-	-	-	-			None	SQUARED HEKUTAARU	-	-	-	-	-		-	False	True	0
+328	1	13111	㌷	SQUARE PESO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ペソ	Square	-	-	-	-	-	-			None	SQUARED PESO	-	-	-	-	-		-	False	True	0
+329	1	13112	㌸	SQUARE PENIHI	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ペニヒ	Square	-	-	-	-	-	-			None	SQUARED PENIHI	-	-	-	-	-		-	False	True	0
+330	1	13113	㌹	SQUARE HERUTU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ヘルツ	Square	-	-	-	-	-	-			None	SQUARED HERUTU	-	-	-	-	-		-	False	True	0
+331	1	13114	㌺	SQUARE PENSU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ペンス	Square	-	-	-	-	-	-			None	SQUARED PENSU	-	-	-	-	-		-	False	True	0
+332	1	13115	㌻	SQUARE PEEZI	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ページ	Square	-	-	-	-	-	-			None	SQUARED PEEZI	-	-	-	-	-		-	False	True	0
+333	1	13116	㌼	SQUARE BEETA	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ベータ	Square	-	-	-	-	-	-			None	SQUARED BEETA	-	-	-	-	-		-	False	True	0
+334	1	13117	㌽	SQUARE POINTO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ポイント	Square	-	-	-	-	-	-			None	SQUARED POINTO	-	-	-	-	-		-	False	True	0
+335	1	13118	㌾	SQUARE BORUTO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ボルト	Square	-	-	-	-	-	-			None	SQUARED BORUTO	-	-	-	-	-		-	False	True	0
+336	1	13119	㌿	SQUARE HON	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ホン	Square	-	-	-	-	-	-			None	SQUARED HON	-	-	-	-	-		-	False	True	0
+337	1	13120	㍀	SQUARE PONDO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ポンド	Square	-	-	-	-	-	-			None	SQUARED PONDO	-	-	-	-	-		-	False	True	0
+338	1	13121	㍁	SQUARE HOORU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ホール	Square	-	-	-	-	-	-			None	SQUARED HOORU	-	-	-	-	-		-	False	True	0
+339	1	13122	㍂	SQUARE HOON	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ホーン	Square	-	-	-	-	-	-			None	SQUARED HOON	-	-	-	-	-		-	False	True	0
+340	1	13123	㍃	SQUARE MAIKURO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	マイクロ	Square	-	-	-	-	-	-			None	SQUARED MAIKURO	-	-	-	-	-		-	False	True	0
+341	1	13124	㍄	SQUARE MAIRU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	マイル	Square	-	-	-	-	-	-			None	SQUARED MAIRU	-	-	-	-	-		-	False	True	0
+342	1	13125	㍅	SQUARE MAHHA	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	マッハ	Square	-	-	-	-	-	-			None	SQUARED MAHHA	-	-	-	-	-		-	False	True	0
+343	1	13126	㍆	SQUARE MARUKU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	マルク	Square	-	-	-	-	-	-			None	SQUARED MARUKU	-	-	-	-	-		-	False	True	0
+344	1	13127	㍇	SQUARE MANSYON	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	マンション	Square	-	-	-	-	-	-			None	SQUARED MANSYON	-	-	-	-	-		-	False	True	0
+345	1	13128	㍈	SQUARE MIKURON	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ミクロン	Square	-	-	-	-	-	-			None	SQUARED MIKURON	-	-	-	-	-		-	False	True	0
+346	1	13129	㍉	SQUARE MIRI	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ミリ	Square	-	-	-	-	-	-			None	SQUARED MIRI	-	-	-	-	-		-	False	True	0
+347	1	13130	㍊	SQUARE MIRIBAARU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ミリバール	Square	-	-	-	-	-	-			None	SQUARED MIRIBAARU	-	-	-	-	-		-	False	True	0
+348	1	13131	㍋	SQUARE MEGA	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	メガ	Square	-	-	-	-	-	-			None	SQUARED MEGA	-	-	-	-	-		-	False	True	0
+349	1	13132	㍌	SQUARE MEGATON	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	メガトン	Square	-	-	-	-	-	-			None	SQUARED MEGATON	-	-	-	-	-		-	False	True	0
+350	1	13133	㍍	SQUARE MEETORU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	メートル	Square	-	-	-	-	-	-			None	SQUARED MEETORU	-	-	-	-	-		-	False	True	0
+351	1	13134	㍎	SQUARE YAADO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ヤード	Square	-	-	-	-	-	-			None	SQUARED YAADO	-	-	-	-	-		-	False	True	0
+352	1	13135	㍏	SQUARE YAARU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ヤール	Square	-	-	-	-	-	-			None	SQUARED YAARU	-	-	-	-	-		-	False	True	0
+353	1	13136	㍐	SQUARE YUAN	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ユアン	Square	-	-	-	-	-	-			None	SQUARED YUAN	-	-	-	-	-		-	False	True	0
+354	1	13137	㍑	SQUARE RITTORU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	リットル	Square	-	-	-	-	-	-			None	SQUARED RITTORU	-	-	-	-	-		-	False	True	0
+355	1	13138	㍒	SQUARE RIRA	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	リラ	Square	-	-	-	-	-	-			None	SQUARED RIRA	-	-	-	-	-		-	False	True	0
+356	1	13139	㍓	SQUARE RUPII	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ルピー	Square	-	-	-	-	-	-			None	SQUARED RUPII	-	-	-	-	-		-	False	True	0
+357	1	13140	㍔	SQUARE RUUBURU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ルーブル	Square	-	-	-	-	-	-			None	SQUARED RUUBURU	-	-	-	-	-		-	False	True	0
+358	1	13141	㍕	SQUARE REMU	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	レム	Square	-	-	-	-	-	-			None	SQUARED REMU	-	-	-	-	-		-	False	True	0
+359	1	13142	㍖	SQUARE RENTOGEN	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	レントゲン	Square	-	-	-	-	-	-			None	SQUARED RENTOGEN	-	-	-	-	-		-	False	True	0
+360	1	13143	㍗	SQUARE WATTO	-	LeftToRight	False	CJK Compatibility	NotReordered	-	OtherSymbol	ワット	Square	-	-	-	-	-	-			None	SQUARED WATTO	-	-	-	-	-		-	False	True	0
