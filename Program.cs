@@ -78,17 +78,15 @@ namespace unidump {
                 Usage (appName);
             }
 
-            int c = e - s + 1;
-
             if (s < 0) {
                 Usage (appName);
             }
-            if (e < 0 || e > 1114112) {
+
+            if (e < 0) {
                 Usage (appName);
             }
-            if (c < 0 || c > 1114112) {
-                Usage (appName);
-            }
+
+            int c = (e > 1114112 ? 1114112 : e) - s + 1;
 
             List<int> lowerCodePointList = Enumerable.Range (s, c).Where (i => i < 55296).ToList ();
             List<int> upperCodePointList = Enumerable.Range (s, c).Where (i => i > 57343).ToList ();
